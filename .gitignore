@@ -67,6 +67,7 @@ logs1
 datasets/
 logs/
 *.h5
+*.pkl
 results/
 temp/
 test/
