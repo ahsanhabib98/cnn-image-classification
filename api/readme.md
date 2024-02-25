@@ -1,5 +1,6 @@
-### Run the following commands to get started:
+# Run the following commands to get started:
 ````
+cd api
 flask run
 ````
 After waiting for while, test following API endpoint:
