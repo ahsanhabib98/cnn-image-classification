@@ -2,6 +2,7 @@ numpy
 pandas
 seaborn
 opencv
+flask
 matplotlib
 scikit-learn
 notebook
